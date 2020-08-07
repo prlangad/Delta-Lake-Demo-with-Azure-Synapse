@@ -1,0 +1,1 @@
+# Delta-Lake-Demo-with-Azure-Synapse-
