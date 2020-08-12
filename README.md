@@ -27,7 +27,7 @@ For option B:
 2.	Let’s start creating delta table from csv file using Synapse pipeline. Create dataset, data flow and Synapse pipeline as named below and then click on script and copy JSON code from link. Once validation is successful, publish these artifacts.
  **Note**: In this demo, linked service name is used as <>, replace this name with appropriate linked service name you have created for your storage account. These instructions also apply to storage account name, container name, folder name. <DeltaLake location edit>
   
-  Artifact Type	|	Pipeline Name	|	Link to JSON file
+  Artifact Type	|	Artifact Name	|	Link to JSON file
   ---	|	---	|	---
   Dataset	|	hrdatacsv_adls	|	[hrdatacsv_adls.json](https://github.com/prlangad/Delta-Lake-Demo-with-Azure-Synapse/blob/master/Code%20Artifacts/hrdatacsv_adls.json)	
   DataFlowName	|	CodeFreeLoadDeltaTable	|	[CodeFreeLoadDeltaTable.json](https://github.com/prlangad/Delta-Lake-Demo-with-Azure-Synapse/blob/master/Code%20Artifacts/CodeFreeLoadDeltaTable.json)
